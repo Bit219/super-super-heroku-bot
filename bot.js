@@ -7,9 +7,9 @@ client.on('ready', () => {
 
 client.on('message', message => {
     if (message.content === 'ping') {
-    	message.reply('pong');
+    	message.reply('ur mum gey');
   	}
 });
 
 // THIS  MUST  BE  THIS  WAY
-client.login(process.env.BOT_TOKEN);
+client.login(process.env.NDIxNTMyMTE4MDc4NzE3OTUz.DYOl7A.omd7AIGiwBIV495qEOUysQxjnpE);
